@@ -1,9 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-src/components
-src/data.js
-src/images/
-src/pages/
+# src/components
+# src/data.js
+# src/images/
+# src/pages/
 
 
 # dependencies
